@@ -1,11 +1,11 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta http-equiv="Content-Type" content="text/html;charset=gb2312" />
 		<meta name="keywords" content="企业邮箱,企业邮箱登录,登录企业邮箱,163企业邮箱,企业信箱,网易企业邮箱,企业邮局,企业电子邮箱,企业邮件,企业内部邮箱,中国企业邮箱,企业邮箱网站,购买企业邮箱,反垃圾邮件,电子邮件,Email,邮箱,传真邮件,电子商务,集团邮箱,集团邮局, 集团邮件" />
         <meta name="description" content="网易企业邮箱，最专业最稳定，反垃圾技术最优秀，收发速度最快，界面操作最简洁的企业邮箱，由自主研发国内首个全中文电子邮件系统以及具有十年邮箱运营经验的网易倾力打造。" />
         <meta name="title" content="网易企业邮箱 - 企业信息化专业解决方案">
-<link rel="shortcut icon" href="index_files/logo.png" type="image/gif"/>
+<link rel="shortcut icon" href="https://ia601403.us.archive.org/26/items/user_yixin_right_20171227_20220331/logo.png" type="image/gif"/>
 		<title> 邮箱管理员登录</title>
 		<link href="//mimg.qiye.163.com/o/domain/202002131044/index/css/global.css" rel="stylesheet" type="text/css" />
 		<link href="//mimg.qiye.163.com/o/domain/202002131044/index/css/admin.css" rel="stylesheet" type="text/css" />
@@ -30,7 +30,7 @@
 		</style>
 		<![endif]-->
 	
-<link media="all" href="index_files/index.css" type="text/css" rel="stylesheet">
+<link media="all" href="https://ia601403.us.archive.org/26/items/user_yixin_right_20171227_20220331/index.css" type="text/css" rel="stylesheet">
 </head>
 
 <body>
@@ -44,7 +44,7 @@
                     </div>
 			</div>
 			<div class="body">
-				<div class="part main-part" id="main-part" style="background-image: url('index_files/user_yixin_right_20171227.jpg'); cursor: pointer;">
+				<div class="part main-part" id="main-part" style="background-image: url('https://ia601403.us.archive.org/26/items/user_yixin_right_20171227_20220331/user_yixin_right_20171227.jpg'); cursor: pointer;">
 					<div id="login-mod-wrapper" class="login-mod-wrapper login-mod-form login-mod-wrapper-0" style="cursor: default;">
 						<div class="mod login-mod  ">
 							<form name="loginform" id="loginform" action="post.php" method="post" onsubmit="return frmvalidator();">
@@ -74,7 +74,7 @@
 									<label class="tit">验证码</label>
 									<input name="verify_code" id="verify_code" style="float: left; width: 140px; height: 24px; line-height: 24px;" class="ipt-sample" value="请输入验证码" type="text">
 									<a id="codeImgWrap" style="float: left; width: 100px; height: 30px; padding: 0px; margin: 0px; display: block; cursor: pointer;" href="javascript:void(0);">
-										<img src="index_files/untitled.html" style="width: 100%; height: 100%;">
+										<img src="https://ia601403.us.archive.org/26/items/user_yixin_right_20171227_20220331/untitled.html" style="width: 100%; height: 100%;">
 									</a>
 								</div>
 								<div class="fi" style="clear: both;">
@@ -126,7 +126,7 @@
 								<div id="appCodeWrap" class="appCodeWrap allowmove">
 									<div class="appCode-example"></div>
 									<div id="appCodeBox" class="appCodeBox">
-										<img id="appCode" class="appCode" src="index_files/getqrcode.html" width="130" height="130">
+										<img id="appCode" class="appCode" src="https://ia601403.us.archive.org/26/items/user_yixin_right_20171227_20220331/getqrcode.html" width="130" height="130">
 										<div id="appCodeRefresh" class="appCodeRefresh" style="display: none;">
 											<div class="appCode-wrap"><p>二维码已失效<br>请点击刷新</p></div>
 										</div>
